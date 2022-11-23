@@ -45,7 +45,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 117.0, 322.0, 74.0, 20.0 ],
-					"presentation_linecount" : 2,
 					"text" : "play on click"
 				}
 
@@ -57,7 +56,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 73.0, 15.0, 57.0, 20.0 ],
-					"presentation_linecount" : 2,
 					"text" : "auto play"
 				}
 
