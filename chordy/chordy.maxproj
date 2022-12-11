@@ -2,7 +2,7 @@
 	"name" : "chordy",
 	"version" : 1,
 	"creationdate" : 3752057669,
-	"modificationdate" : 3752057684,
+	"modificationdate" : 3753620720,
 	"viewrect" : [ 25.0, 119.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -15,6 +15,11 @@
 				"local" : 1,
 				"toplevel" : 1
 			}
+,
+			"cell_input_handler.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
 
 		}
 
@@ -25,6 +30,14 @@
 	}
 ,
 	"searchpath" : 	{
+		"0" : 		{
+			"bootpath" : "~/Documents/Chordy/chordy/patchers/subpatches",
+			"projectrelativepath" : "./patchers/subpatches",
+			"label" : "subpatch",
+			"recursive" : 1,
+			"enabled" : 1,
+			"includeincollective" : 1
+		}
 
 	}
 ,
