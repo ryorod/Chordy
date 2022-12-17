@@ -2,7 +2,7 @@
 	"name" : "chordy",
 	"version" : 1,
 	"creationdate" : 3752057669,
-	"modificationdate" : 3754122461,
+	"modificationdate" : 3754125179,
 	"viewrect" : [ 25.0, 119.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -28,6 +28,14 @@
 ,
 			"7th_base.maxpat" : 			{
 				"kind" : "patcher",
+				"local" : 1
+			}
+
+		}
+,
+		"media" : 		{
+			"co5th.png" : 			{
+				"kind" : "imagefile",
 				"local" : 1
 			}
 
